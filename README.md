@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**valerianoCarlos/valerianoCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Carlos, a passionate and aspiring Software Engineering student. Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing a master degree in Software Engineering @ Politecnico di Torino.
+- 💻 Exploring various technologies and frameworks to enhance my coding skills.
+- 🌐 Web development enthusiast, with a keen interest in building robust and user-friendly applications.
+
+## Tech Stack
+
+- **Languages:** JavaScript, TypeScript, C, Rust, Java, C#
+- **Web Development:** HTML, CSS, React, MaterialUI
+- **Database:** MySQL, MongoDB, Firebase
+- **Tools:** Git, VSCode
+
+## Learning Goals
+
+- 🌱 Currently learning Unity and C#.
+- 🤔 Actively seeking opportunities to grow and expand my skill set.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/carlos-valeriano-a6b391223/)
+
+Happy coding! ✨
