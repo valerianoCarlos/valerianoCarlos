@@ -17,7 +17,6 @@ I'm Carlos, a passionate and aspiring Software Engineering student. Welcome to m
 
 ## Learning Goals
 
-- 🌱 Currently learning Unity and C#.
 - 🤔 Actively seeking opportunities to grow and expand my skill set.
 
 ## Connect with Me
