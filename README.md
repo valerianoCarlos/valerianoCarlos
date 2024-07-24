@@ -4,13 +4,13 @@ I'm Carlos, a passionate and aspiring Software Engineering student. Welcome to m
 
 ## About Me
 
-- 🎓 Currently pursuing a master degree in Software Engineering @ Politecnico di Torino.
+- 🎓 Currently pursuing a Master's Degree in Software Engineering @ Politecnico di Torino.
 - 💻 Exploring various technologies and frameworks to enhance my coding skills.
 - 🌐 Web development enthusiast, with a keen interest in building robust and user-friendly applications.
 
 ## Tech Stack
 
-- **Languages:** JavaScript, TypeScript, C, Rust, Java, C#
+- **Languages:** JavaScript, TypeScript, C, Rust, Java, C#, Python
 - **Web Development:** HTML, CSS, React, MaterialUI
 - **Database:** MySQL, MongoDB, Firebase
 - **Tools:** Git, VSCode
