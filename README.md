@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Carlos, a passionate and aspiring Software Engineering. Welcome to my GitHub profile! 🚀
+I'm Carlos, a passionate and aspiring Software Engineer. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
