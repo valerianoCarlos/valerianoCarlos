@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Carlos, a passionate and aspiring Software Engineering student. Welcome to my GitHub profile! 🚀
+I'm Carlos, a passionate and aspiring Software Engineering. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
@@ -10,10 +10,10 @@ I'm Carlos, a passionate and aspiring Software Engineering student. Welcome to m
 
 ## Tech Stack
 
-- **Languages:** JavaScript, TypeScript, C, Rust, Java, C#, Python
+- **Languages:** JavaScript, C, Rust, Java, C#, Python
 - **Web Development:** HTML, CSS, React, MaterialUI
 - **Database:** MySQL, MongoDB, Firebase
-- **Tools:** Git, VSCode
+- **Tools:** Git, VSCode, Docker
 
 ## Learning Goals
 
