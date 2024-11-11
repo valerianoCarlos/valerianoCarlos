@@ -10,9 +10,9 @@ I'm Carlos, a passionate and aspiring Software Engineer. Welcome to my GitHub pr
 
 ## Tech Stack
 
-- **Languages:** JavaScript, C, Rust, Java, C#, Python
-- **Web Development:** HTML, CSS, React, MaterialUI
-- **Database:** MySQL, MongoDB, Firebase
+- **Languages:** JavaScript, Python, C, Rust, Java, C#
+- **Web Development:** React, MaterialUI, Node.js
+- **Database:** MySQL, SQLite, MongoDB, Firebase
 - **Tools:** Git, VSCode, Docker
 
 ## Learning Goals
